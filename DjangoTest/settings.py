@@ -25,7 +25,7 @@ SECRET_KEY = 'd7^vc$r7ks*i^23sg$fl#h%6he72z50p0&bp#_g&nrv-3c4np-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ('tazdraperm.pythonanywhere.com', )
 
 
 # Application definition
